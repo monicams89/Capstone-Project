@@ -1,2 +1,2 @@
 # Capstone-Project
-Predicting Likes and Attention on a YouTube video 
+Predicting Likes and Attention for YouTube videos 
